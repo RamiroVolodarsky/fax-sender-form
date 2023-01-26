@@ -6,7 +6,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<FaxApp />} />
+        <Route path="/fax-sender-form" element={<FaxApp />} />
       </Routes>
     </Router>
   );
