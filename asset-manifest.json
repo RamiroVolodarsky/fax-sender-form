@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fax-sender-form/static/css/main.a69f5460.css",
-    "main.js": "/fax-sender-form/static/js/main.fd5d1efd.js",
+    "main.js": "/fax-sender-form/static/js/main.8ad534b4.js",
     "static/js/787.df689cd1.chunk.js": "/fax-sender-form/static/js/787.df689cd1.chunk.js",
     "index.html": "/fax-sender-form/index.html",
     "main.a69f5460.css.map": "/fax-sender-form/static/css/main.a69f5460.css.map",
-    "main.fd5d1efd.js.map": "/fax-sender-form/static/js/main.fd5d1efd.js.map",
+    "main.8ad534b4.js.map": "/fax-sender-form/static/js/main.8ad534b4.js.map",
     "787.df689cd1.chunk.js.map": "/fax-sender-form/static/js/787.df689cd1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a69f5460.css",
-    "static/js/main.fd5d1efd.js"
+    "static/js/main.8ad534b4.js"
   ]
 }
